@@ -1,0 +1,27 @@
+@import "variables";
+
+@import '~bootstrap/scss/bootstrap';
+@import 'open-iconic-bootstrap';
+
+body {
+  background-color: #fefefe;
+}
+
+.navbar-tn {
+  border-bottom: 1px solid #bebebe;
+}
+.page-content {
+  padding: 1.5rem;
+}
+
+.dashboard-store {
+  border: 1px solid #ddd;
+}
+
+.store-accept-form {
+  display: none;
+}
+
+.store-reject-form {
+  display: none;
+}

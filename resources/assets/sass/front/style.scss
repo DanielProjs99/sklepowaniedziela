@@ -1,0 +1,41 @@
+@import "variables";
+
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  background-color: #fefefe;
+}
+
+.navbar-tn {
+  border-bottom: 1px solid #bebebe;
+  background-color: #cc0000 !important;
+    
+  a {
+    color: #fff !important;
+  }
+}
+
+.page-front {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.main-front {
+  flex: 1 1 auto;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+.main-footer {
+  background: #222;
+  color: white;
+
+  .nav-link {
+    color: white;
+  }
+}
+
+.page-content {
+  padding: 1.5rem;
+}
