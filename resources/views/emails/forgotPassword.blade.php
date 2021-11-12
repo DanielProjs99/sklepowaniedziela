@@ -5,7 +5,7 @@
     <title>Reset hasła</title>
   </head>
   <body>
-  	<h1 style="margin:0; mso-line-height-rule:exactly;">Reset hasła Twoja Niedziela.</h1>
+  	<h1 style="margin:0; mso-line-height-rule:exactly;">Reset hasła Sklepowa Niedziela.</h1>
     <br>
     <p style="margin:0;">Poniżej znajduje się link służący do zresetowania hasła:</p>
     <p style="margin:0;"><a href="{{$link}}">{{$link}}</a></p>

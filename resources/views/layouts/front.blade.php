@@ -23,7 +23,7 @@ if (Auth::check()) {
 
     @yield('meta')
 
-    <title>Twoja Niedziela @yield('title')</title>
+    <title>Sklepowa Niedziela @yield('title')</title>
     
     <script src="{{ mix('front/js/script.js') }}" async defer></script>
     @yield('scripts')
@@ -59,7 +59,7 @@ if (Auth::check()) {
     <div class="page-front">
         <nav class="navbar navbar-expand-md navbar-dark p-1 p-sm-0 navbar-tn ">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">Twoja Niedziela</a>
+                <a class="navbar-brand" href="{{ url('/') }}">Sklepowa Niedziela</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -102,7 +102,7 @@ if (Auth::check()) {
         <footer class="main-footer">
             <div class="container">
                 <div class="navbar navbar-dark navbar-expand-md p-0">
-                    <span>&copy; Twoja Niedziela 2018</span>
+                    <span>&copy; Sklepowa Niedziela 2021</span>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter" aria-controls="navbarFooter" aria-expanded="false">
                             <span class="navbar-toggler-icon"></span>
                         </button>

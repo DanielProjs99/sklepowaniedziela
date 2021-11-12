@@ -1,11 +1,10 @@
 Prosimy uiścić opłatę w wysokości {{$price}} zł na podane konto:
 
-Akademickie Inkubatory Przedsiębiorczości
-Ul. Piękna 68
-00-672 Warszawa
-PL21114010100000515853003142
-
+Sklepowa niedziela
+Ul. Sezamkowa
+00-000 Poznań
+PL00000000000000000000000000
+                           
 Po wykonaniu wpłaty prosimy o wysłanie potwierdzenia na adres e-mail:
-twojaniedziela@gmail.com
-
+sklepowaniedziela@danielprojs.ogicom.pl
 Wiadomość wysłana automatycznie, prosimy na nią nie odpowiadać.

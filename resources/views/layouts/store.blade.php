@@ -33,7 +33,7 @@ $cartQuantityDB = DB::table('reservations')
     <div class="page-store">
         <nav class="navbar navbar-expand-md navbar-dark p-0 navbar-tn">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">Twoja Niedziela</a>
+                <a class="navbar-brand" href="{{ url('/') }}">Sklepowa Niedziela</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
                     <span class="navbar-toggler-icon"></span>
                 </button>

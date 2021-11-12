@@ -5,12 +5,12 @@
     <title>Rejestracja konta</title>
   </head>
   <body>
-  	<h1 style="margin:0; mso-line-height-rule:exactly;">Dziękujemy za założenie konta w serwisie Twoja Niedziela.</h1>
+  	<h1 style="margin:0; mso-line-height-rule:exactly;">Dziękujemy za założenie konta w serwisie Sklepowa Niedziela.</h1>
     <br>
     <p style="margin:0;">Poniżej znajduje się link aktywacyjny konta:</p>
     <p style="margin:0;"><a href="{{$link}}">{{$link}}</a></p>
     <br>
-    <p style="margin:0;">w razie pytań prosimy o kontakt na adres email: twojaniedziela@gmail.com.</p>
+    <p style="margin:0;">w razie pytań prosimy o kontakt na adres email: sklepowaniedziela@danielprojs.ogicom.pl.</p>
     <br>
     <p style="margin:0;">Wiadomość wysłana automatycznie, prosimy na nią nie odpowiadać.</p>
   </body>

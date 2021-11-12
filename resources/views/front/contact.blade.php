@@ -8,6 +8,6 @@
     <h5>Masz pytania? Jesteś zainteresowany współpracą?</h5>
     <h6>Skontaktuj się! Chętnie odpowiemy na Twoje pytania.</h6>
 
-    <h4 class="mt-4">Adres e-mail: <span class="text-success">twojaniedziela@gmail.com</span></h4>
+    <h4 class="mt-4">Adres e-mail: <span class="text-success">sklepowaniedziela@danielprojs.ogicom.pl</span></h4>
 </div>
 @endsection

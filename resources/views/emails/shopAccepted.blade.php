@@ -9,7 +9,7 @@
     <p style="margin:0;">Gratulujemy, Twój sklep, {{$name}}, został zaakceptowany.</p>
     <br>
     <p style="margin:0;">Pozdrawiamy,</p>
-    <p style="margin:0;">Twoja Niedziela</p>
+    <p style="margin:0;">Skelpowa Niedziela</p>
     <br>
     <p style="margin:0;">Wiadomość wysłana automatycznie, prosimy na nią nie odpowiadać.</p>
   </body>

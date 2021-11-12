@@ -13,7 +13,7 @@
       
       <p class="text-center">Co zyskujesz korzystając z naszego serwisu?</p>
       <ul>
-      <li>Twojaniedziela.pl to pierwszy serwis w Polsce, który pokazuje zweryfikowaną informacje o otwartych sklepach w niedziele niehandlowe.</li>
+      <li>sklepowaniedziela.pl to pierwszy serwis w Polsce, który pokazuje zweryfikowaną informacje o otwartych sklepach w niedziele niehandlowe.</li>
       <li>Jako właściciel sklepu sam decydujesz w które dni chcesz aby Twój sklep był otarty i w jakich godzinach, my nic Ci nie narzucamy, sam decydujesz o wszystkim.</li>
       <li>Docieramy do coraz większej ilości odbiorców przez co Twój sklep zyskuje nowych klientów.</li>
       <ul>

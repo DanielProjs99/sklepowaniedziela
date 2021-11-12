@@ -11,10 +11,10 @@
     <p style="margin:0;">Powód:</p>
     <p style="margin:0;">{{$reason}}</p>
     <br>
-    <p style="margin:0;">w razie pytań prosimy o kontakt na adres email: twojaniedziela@gmail.com.</p>
+    <p style="margin:0;">w razie pytań prosimy o kontakt na adres email: sklepowaniedziela@danielprojs.ogicom.pl.</p>
     <br>
     <p style="margin:0;">Pozdrawiamy,</p>
-    <p style="margin:0;">Twoja Niedziela</p>
+    <p style="margin:0;">Sklepowa Niedziela</p>
     <br>
     <p style="margin:0;">Wiadomość wysłana automatycznie, prosimy na nią nie odpowiadać.</p>
   </body>

@@ -7,7 +7,7 @@
 
     @yield('meta')
 
-    <title>Twoja Niedziela - panel @yield('title')</title>
+    <title>Sklepowa Niedziela - panel @yield('title')</title>
     
     <script src="{{ mix('dashboard/js/script.js') }}" async defer></script>
     @yield('scripts')

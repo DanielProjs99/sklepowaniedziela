@@ -1,4 +1,4 @@
-Reset hasła Twoja Niedziela.
+Reset hasła Skelpowa Niedziela.
 
 Poniżej znajduje się link służący do zresetowania hasła:
 {{$link}}
